@@ -401,4 +401,13 @@ footer {
 	nav {
 		text-align: center;
 	}
+	
+	nav li {
+		padding: 45px 30px 0 0;
+	}
+	
+	#work img{
+		height: 200px;
+		width: 300px;
+	}
 }
