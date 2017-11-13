@@ -280,6 +280,10 @@ h1 {
 
 /*----------3.3	- Site Footer----------*/
 
+footer {
+	padding-top: 30px;
+}
+
 /*--------------------------------------------------------------
 4.0 - MEDIA
 -------------------------------------------------------------- */
@@ -308,9 +312,6 @@ img {
 	background-position: center 0;
 }
 
-footer {
-	padding-top: 30px;
-}
 
 /*--------------------------------------------------------------
 5.0 - UTILITY
@@ -342,8 +343,6 @@ footer {
 .text-align, #we-design {
 	text-align: center;
 }
-
-
 
 .inline-block {
 	display: inline-block;
@@ -403,11 +402,12 @@ footer {
 	}
 	
 	nav li {
-		padding: 45px 30px 0 0;
+		padding-right: 30px;
 	}
 	
 	#work img{
 		height: 200px;
 		width: 300px;
+		padding-left: 50px;
 	}
 }
